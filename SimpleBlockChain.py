@@ -1,6 +1,6 @@
 
 '''
-	Minimal blockschain implementation in python.
+	Minimal blockchain implementation in python.
 '''
 import time
 from hashlib import sha256 as sha256
